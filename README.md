@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+I'm Diógenes, welcome to my profile on GitHub.
+
+### OLÁ!!! 👋
+Eu sou o Diógenes, seja bem vindo ao meu perfil no GitHub.
 
 <!--
 **diogenes-souza/diogenes-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
